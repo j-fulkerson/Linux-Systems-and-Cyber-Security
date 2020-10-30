@@ -1,0 +1,11 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-09-27 20:42 CDT
+Nmap scan report for facebook.com (157.240.18.35)
+Host is up (0.0064s latency).
+Other addresses for facebook.com (not scanned): 2a03:2880:f127:283:face:b00c:0:25de
+rDNS record for 157.240.18.35: edge-star-mini-shv-02-ort2.facebook.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.55 seconds
